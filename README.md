@@ -70,7 +70,7 @@ The essential tools required to build these.
 
 ## -~ Printing The Casing ~-
 <sup>.If you're outsourcing your printing, simply skip to [Assembly](README.md#--assembly--).</sup>
-1. Firstly, go to the [releases](/releases/latest) tab on this page and download all of the files in the latest release.
+1. Firstly, go to the [releases](https://github.com/itsJensin/Malachite-Tracker-Cases-For-Mochi/releases/latest) tab on this page and download all of the files in the latest release.
 2. Load your strong filament into your printer that you will be using for the hard casings.
 3. Open your printing software, and drag and drop the four files labelled `Malachite-Shell-... .step` onto the printing plate. You can copy and paste these parts to print however many trackers you will be making.
 
