@@ -3,7 +3,7 @@
 
 ## -~ Contents ~-
 [1. Material Requirements](#material-requirements)  
-[2. Tools](#tools)  
+[2. Tools](#-tools-)  
 [3. Printing The Casing](#printing-the-casing)  
 [4. Assembly](#assembly)  
 
