@@ -26,7 +26,7 @@ In order to build these casings, you will need...
 <sub>*PLA Tough+ or PETG is advisable. I used this [PLA Tough+](https://uk.store.bambulab.com/products/pla-tough-upgrade?id=624454208526409776) for mine. Don't get ones labelled with "-CF"; whilst these may be stronger they are usually less precise when printing.*</sub>
 
 - **A flexible printer filament for the central link**  
-<sub>*TPU or TPE is advisable here due to its elastic properties. I used [TPU-95A](https://www.amazon.co.uk/dp/B00TI3JUSI?th=1) for mine as it is flexible, durable and impact resistant.*</sub>
+<sup>*TPU or TPE is advisable here due to its elastic properties. I used [TPU-95A](https://www.amazon.co.uk/dp/B00TI3JUSI?th=1) for mine as it is flexible, durable and impact resistant.*</sup>
 
 - **Four M2.5 x 8mm Flat Head Screws**  
 <sub>*The length is imperative to hold everything in place. I used [these ones from Amazon](https://www.amazon.co.uk/gp/product/B0D2R68YBC) and they work great.*</sub>
