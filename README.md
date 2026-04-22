@@ -121,7 +121,7 @@ The first step is to prepare the batteries and the PCBs for soldering.
 5. Using tweezers or pliers, hold the wires onto the pad and heat with the soldering iron to bond the connection together. Solder the negative (black) wire to the board first, and then the positive (red) wire.  
 <sup>Take care to keep the flexible part as far away from the soldering iron as you can; rotating it 90 degrees worked best for me.</sup>
 
-Once the battery has been soldered, the PCB may turn on. Press and hold down the switch on the board for around two seconds, and the board will turn off.  
+🟡 *Once the battery has been soldered, the PCB may turn on. Press and hold down the switch on the board for around two seconds, and the board will turn off.*  
 
 6. You can now start assembling the other parts of the tracker. Slot both of the bases up through the holes on the flexible piece, and position the PCB and battery into their respective slots.  
 <sup>Take care to insert the casing pieces into the flexible part first before slotting in the electronics, as this will reduce the chance of a snag on the battery wires.</sup>
