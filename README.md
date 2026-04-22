@@ -172,8 +172,8 @@ The first step is to prepare the batteries and the PCBs for soldering.
 <img width="400" height="225" alt="velcro sized" src="https://github.com/user-attachments/assets/a177bb77-db41-447f-b527-b9a738bf96a5" />
 </p></br>
 
-###And that's all! You have your tracker!
+### And that's all! You have your tracker!  
 Was this overly complicated, unneccesary and time consuming? Yes! That's the fun of it!  
-For the next stage of getting your tracker connected, take a look at the SmolSlime documentation on the official SlimeVR website [here.](https://docs.slimevr.dev/smol-slimes/index.html)
+For the next stage of getting your tracker connected, take a look at the SmolSlime documentation on the official SlimeVR website [here.](https://docs.slimevr.dev/smol-slimes/index.html)  
 
 This has been a really fun project to work on. Going back two months ago, I knew nothing about modelling or how to do any of this, so a big thank you to all of the lovely people at VyroVR and SlimeVR for all of the tips and helpfulness that helped me get here 😊
