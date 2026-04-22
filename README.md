@@ -36,8 +36,10 @@ The essential tools required to build these.
 - **A small pair of wire clippers, or if not possible, nail clippers / scissors**
 > For cutting the battery wires to length if necessary.
 - *(Optional)* **A pair of wire strippers**
-> This is optional as I found I could use the clippers to strip any wires.
+> This is optional as I found I could use the clippers to strip the wires.
 
 ## -~ Printing The Casing ~-
+
+1. Firstly, go to the releases tab on this page and download the
 
 ## -~ Assembly ~-
