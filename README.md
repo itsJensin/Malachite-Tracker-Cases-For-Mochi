@@ -157,7 +157,7 @@ So. For each tracker, you should have five printed pieces; two bases, two tops a
 </p></br>
 
 8. The tops should snap into place relatively easily. Clip the tops of the casings onto the bases, taking care to route the wire through the central notches. The top with the word "Malachite" goes over the battery.
-<These will only fit one way around!</sup>
+<sup>These will only fit one way around!</sup>
 
 <p align="center">
 <img width="400" height="225" alt="topsnap" src="https://github.com/user-attachments/assets/803a3231-58b7-456c-b5c2-49b124037819" />
