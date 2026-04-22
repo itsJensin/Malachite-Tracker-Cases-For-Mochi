@@ -127,7 +127,7 @@ Once the battery has been soldered, the PCB may turn on. Press and hold down the
 <sup>Take care to insert the casing pieces together first before inserting the electronics, as this will reduce the chance of a snag on the battery wires.</sup>
 
 <p align="center">
-<img width="400" height="225" alt="Slotting Part In" src="https://github.com/user-attachments/assets/3d3f4f61-222e-422a-9e61-592878e280ed" />
+<img width="400" height="225" alt="Electronics Insert" src="https://github.com/user-attachments/assets/2cb5b07f-e288-4867-8c99-aaaaf8f732ca" />
 </p></br>
 
 7. Feed the battery wires behind the top pillar in the battery casing, so that they follow around the back of the curved pillar.  
