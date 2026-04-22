@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=67F702&center=true&width=500&lines=Malachite+Tracker+Cases+For+Mochi;DIY+Butterfly-Style+Trackers+for+SlimeVR](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=67F702&center=true&width=600&lines=%F0%9F%A6%8B+Malachite+Tracker+Cases+For+Mochi+%F0%9F%A6%8B;%F0%9F%A6%8B+DIY+Butterfly-Style+Trackers+for+SlimeVR+%F0%9F%A6%8B)" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=67F702&center=true&width=600&lines=%F0%9F%A6%8B+Malachite+Tracker+Cases+For+Mochi+%F0%9F%A6%8B;%F0%9F%A6%8B+DIY+Butterfly-Style+Trackers+for+SlimeVR+%F0%9F%A6%8B" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
 
