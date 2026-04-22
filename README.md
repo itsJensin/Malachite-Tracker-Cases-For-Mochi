@@ -66,7 +66,7 @@ The essential tools required to build these.
 2. Open your printing software, and drag and drop the four files labelled `Malachite-Shell-... .step` onto the printing plate.
 
 <p align="center">
-<img width="300" height="200" alt="PLA Parts Build Plate" src="https://github.com/user-attachments/assets/f6ab75bd-d9bf-4b89-8677-97c04e16b46d" />  
+<img width="400" height="300" alt="PLA Parts Build Plate sized" src="https://github.com/user-attachments/assets/d2a7ca44-70f5-4a35-a9c1-b2a31402b82d" />
 </p></br>
 
 3. When you drag the files in, you will need to flip both of the top plates over, so the flate side prints flat on the plate. You should be able to simply do this inside your software.
