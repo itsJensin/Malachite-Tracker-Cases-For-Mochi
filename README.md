@@ -177,3 +177,8 @@ Was this overly complicated, unneccesary and time consuming? Yes! That's the fun
 For the next stage of getting your tracker connected, take a look at the SmolSlime documentation on the official SlimeVR website [here.](https://docs.slimevr.dev/smol-slimes/index.html)  
 
 This has been a really fun project to work on. Going back two months ago, I knew nothing about modelling or how to do any of this, so a big thank you to all of the lovely people at VyroVR and SlimeVR for all of the tips and helpfulness that helped me get here 😊
+
+<p align="center">
+<img width="900" height="1200" alt="IMG_3464" src="https://github.com/user-attachments/assets/3ff29246-86d4-48ea-bff7-dc734c17fbc2" />
+</p>
+
