@@ -60,7 +60,9 @@ The essential tools required to build these.
 <sup>This is optional as I found I could use the clippers to strip the wires.</sup>
 
 ## -~ Printing The Casing ~-
-
+<sup>(If you're outsourcing your printing, simply skip to [Assembly](--assembly))</sup>
 1. Firstly, go to the releases tab on this page and download all of the files in the latest release.
+
+2. Open your printing software, and drag and drop the four files labelled `Shell... .step` onto the printing plate.
 
 ## -~ Assembly ~-
