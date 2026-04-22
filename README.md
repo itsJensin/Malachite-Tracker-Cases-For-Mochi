@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=67F702&width=435&lines=Malachite+Tracker+Cases+For+Mochi;DIY+Butterfly-Style+Trackers+for+SlimeVR)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=67F702&width=500&lines=Malachite+Tracker+Cases+For+Mochi;DIY+Butterfly-Style+Trackers+for+SlimeVR)](https://git.io/typing-svg)  
 
 3D-printable files to print butterfly-style casings for the Mochi SlimeVR chip from VyroVR. Includes .STEP files for all five pieces and a quick tutorial on how to assemble the trackers.
 
