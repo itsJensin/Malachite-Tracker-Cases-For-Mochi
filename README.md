@@ -60,7 +60,7 @@ The essential tools required to build these.
 <sup>This is optional as I found I could use the clippers to strip the wires.</sup>
 
 ## -~ Printing The Casing ~-
-<sup>(If you're outsourcing your printing, simply skip to [Assembly](--assembly))</sup>
+<sup>(If you're outsourcing your printing, simply skip to [Assembly](--assembly--))</sup>
 1. Firstly, go to the releases tab on this page and download all of the files in the latest release.
 
 2. Open your printing software, and drag and drop the four files labelled `Malachite-Shell-... .step` onto the printing plate.
@@ -73,6 +73,12 @@ The essential tools required to build these.
 
 <p align="center">
 <img width="400" height="225" alt="top flipping" src="https://github.com/user-attachments/assets/5b36c400-fc81-42e4-943b-899c06b9b817" />
+</p></br>
+
+4. Set your printer's infill to 100% to ensure a fully solid print.
+
+<p align="center">
+<img width="400" height="225" alt="Infill sized" src="https://github.com/user-attachments/assets/53c2e5f2-9ef6-470d-b977-df01bc631f18" />
 </p></br>
 
 ## -~ Assembly ~-
