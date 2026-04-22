@@ -62,14 +62,14 @@ The essential tools required to build these.
 - **A soldering iron**  
 <sup>For connecting the battery onto the PCB.</sup>
 
-- **A pair of tweezers, or fine tip pliers**
+- **A pair of tweezers, or fine tip pliers*  
 <sup>For holding onto wires during the soldering process.</sup>
 
 - **A small screwdriver, compatible with the screw head type you got in your materials**  
 <sup>I used a Phillips #1 for mine.</sup>
 
 ## -~ Printing The Casing ~-
-<sup>.If you're outsourcing your printing, simply skip to [Assembly](README.md#--assembly--).</sup>
+<sup>If you're outsourcing your printing, simply skip to [Assembly](README.md#--assembly--).</sup>
 1. Firstly, go to the [releases](https://github.com/itsJensin/Malachite-Tracker-Cases-For-Mochi/releases/latest) tab on this page and download all of the files in the latest release.
 2. Load your strong filament into your printer that you will be using for the hard casings.
 3. Open your printing software, and drag and drop the four files labelled `Malachite-Shell-... .step` onto the printing plate. You can copy and paste these parts to print however many trackers you will be making.
