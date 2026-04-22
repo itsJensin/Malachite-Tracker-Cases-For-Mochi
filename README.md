@@ -106,7 +106,9 @@ So. For each tracker, you should have five pieces; two bases, two tops and a fle
 <img width="400" height="225" alt="disassembled sized" src="https://github.com/user-attachments/assets/66e68249-7989-44b4-99a8-26c24d147395" />
 </p></br>
 
-The first step is to prepare the batteries and the PCBs for soldering.  
+> Before doing any building, **check the Mochi boards fit into the bases.** The tolerance is very tight and you may need to sand down the edges to make it fit nicely.
+
+🟢 The first step is to prepare the batteries and the PCBs for soldering.  
 1. If your battery cables aren't already stripped, strip about 3mm of the sheath off of the end of the battery's wires.    
 <sup>For reference, the protruding pillars on the bottom case pieces are around 3mm, so you can use these as a rough measurement if needed.</sup>
 
@@ -137,10 +139,11 @@ The first step is to prepare the batteries and the PCBs for soldering.
 <img width="400" height="225" alt="soldering sized" src="https://github.com/user-attachments/assets/7585e81f-183f-4c38-987e-baa4ec8e6c7c" />
 </p></br>
 
-🟡 *Once the battery has been soldered, the PCB may turn on. Press and hold down the switch on the board for around two seconds, and the board will turn off.*  
+🟢 *Once the battery has been soldered, the PCB may turn on. Press and hold down the switch on the board for around two seconds, and the board will turn off.*  
 
 6. You can now start assembling the other parts of the tracker. Slot both of the bases up through the holes on the flexible piece, and position the PCB and battery into their respective slots.  
 <sup>Take care to insert the casing pieces into the flexible part first before slotting in the electronics, as this will reduce the chance of a snag on the battery wires.</sup>
+
 
 <p align="center">
 <img width="400" height="225" alt="Electronics Insert" src="https://github.com/user-attachments/assets/2cb5b07f-e288-4867-8c99-aaaaf8f732ca" />
