@@ -156,7 +156,7 @@ So. For each tracker, you should have five printed pieces; two bases, two tops a
 <img width="400" height="225" alt="Wire Routing sized 2" src="https://github.com/user-attachments/assets/42e28a70-a9fb-43ce-81a2-162e7223af81" />
 </p></br>
 
-8. The tops should snap into place relatively easily. Clip the tops of the casings onto the bases, taking care to route the wire through the central notches. The top with the word "Malachite" goes over the battery.
+8. The tops should snap into place relatively easily. Clip the tops of the casings onto the bases, taking care to route the wire through the central notches. The top with the word "Malachite" goes over the battery.  
 <sup>These will only fit one way around!</sup>
 
 <p align="center">
