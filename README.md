@@ -102,24 +102,40 @@ The essential tools required to build these.
 
 So. For each tracker, you should have five pieces; two bases, two tops and a flexible connector piece.
 
-/// Insert photo of all pieces
+<p align="center">
+<img width="400" height="225" alt="disassembled sized" src="https://github.com/user-attachments/assets/66e68249-7989-44b4-99a8-26c24d147395" />
+</p></br>
 
 The first step is to prepare the batteries and the PCBs for soldering.  
 1. If your battery cables aren't already stripped, strip about 3mm of the sheath off of the end of the battery's wires.    
 <sup>For reference, the protruding pillars on the bottom case pieces are around 3mm, so you can use these as a rough measurement if needed.</sup>
 
-/// Insert image of battery wires stripped
+<p align="center">
+<img width="400" height="225" alt="stripping sized" src="https://github.com/user-attachments/assets/6cc70bc6-3c68-43b3-9590-27cbe68961c5" />
+</p></br>
 
 2. Put some solder onto the end of the soldering iron, then rub the wire tips into the solder to prepare them for joining. If you have access to soldering flux, dipping the tips in this will make it easier for the solder to bind.  
 <sup>This part isn't essential, but it will allow the wire to bond with the PCB with much less hassle.</sup>
 
-3. Place your iron onto the power plates on the PCB one at a time, then create a small blob of solder once the plate is hot enough for it to take.  
+3. Place your soldering iron onto the power plates on the PCB one at a time, then create a small blob of solder once the plate is hot enough for it to take.  
 <sup>You can place a drop of flux onto the pad to help it take the solder.</sup>
+
+<p align="center">
+<img width="400" height="225" alt="mochi solder" src="https://github.com/user-attachments/assets/8d7e2e8e-027b-4b9f-9709-9666bde38a9c" />
+</p></br>
 
 4. Feed the battery wires through the loop in the center of the flexible connector; pull them as far through as you can to keep the plastic as far away from the soldering processes.
 
-5. Using tweezers or pliers, hold the wires onto the pad and heat with the soldering iron to bond the connection together. Solder the negative (black) wire to the board first, and then the positive (red) wire.  
+<p align="center">
+<img width="400" height="225" alt="threading sized" src="https://github.com/user-attachments/assets/23e9d665-3ef5-4d70-8862-3ef82a16d24b" />
+</p></br>
+
+6. Using tweezers or pliers, hold the wires onto the pad and heat with the soldering iron to bond the connection together. Solder the negative (black) wire to the board first, and then the positive (red) wire.  
 <sup>Take care to keep the flexible part as far away from the soldering iron as you can; rotating it 90 degrees worked best for me.</sup>
+
+<p align="center">
+<img width="400" height="225" alt="soldering sized" src="https://github.com/user-attachments/assets/7585e81f-183f-4c38-987e-baa4ec8e6c7c" />
+</p></br>
 
 🟡 *Once the battery has been soldered, the PCB may turn on. Press and hold down the switch on the board for around two seconds, and the board will turn off.*  
 
@@ -136,3 +152,28 @@ The first step is to prepare the batteries and the PCBs for soldering.
 <p align="center">
 <img width="400" height="225" alt="Wire Routing sized 2" src="https://github.com/user-attachments/assets/42e28a70-a9fb-43ce-81a2-162e7223af81" />
 </p></br>
+
+8. The tops should snap into place relatively easily. Clip the tops of the casings onto the bases, taking care to route the wire through the central notches. The top with the word "Malachite" goes over the battery.
+<These will only fit one way around!</sup>
+
+<p align="center">
+<img width="400" height="225" alt="topsnap" src="https://github.com/user-attachments/assets/803a3231-58b7-456c-b5c2-49b124037819" />
+</p></br>
+
+9. Flip the tracker onto its back. Using a small amount of force, drive the M2.5 screws into the screw holes. You may need to screw and unscrew them a couple of times for the tops to screw on flush with the bases.
+
+<p align="center">
+<img width="400" height="225" alt="screwing sized" src="https://github.com/user-attachments/assets/70556691-bc90-454d-9e45-39c140d29bd4" />
+</p></br>
+
+11. Make a small rectangular cutout of your velcro piece slightly smaller than the size of the casings, and cut two of the corners off of one of the long sides. Remove the protector tape from the back and stick it firmly onto the back of the tracker.
+
+<p align="center">
+<img width="400" height="225" alt="velcro sized" src="https://github.com/user-attachments/assets/a177bb77-db41-447f-b527-b9a738bf96a5" />
+</p></br>
+
+###And that's all! You have your tracker!
+Was this overly complicated, unneccesary and time consuming? Yes! That's the fun of it!  
+For the next stage of getting your tracker connected, take a look at the SmolSlime documentation on the official SlimeVR website [here.](https://docs.slimevr.dev/smol-slimes/index.html)
+
+This has been a really fun project to work on. Going back two months ago, I knew nothing about modelling or how to do any of this, so a big thank you to all of the lovely people at VyroVR and SlimeVR for all of the tips and helpfulness that helped me get here 😊
