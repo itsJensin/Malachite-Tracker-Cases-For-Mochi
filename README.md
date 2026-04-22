@@ -7,7 +7,7 @@
 [3. Printing The Casing](#printing-the-casing)  
 [4. Assembly](#assembly)  
 
-### Material Requirements
+## -~ Material Requirements ~-
 In order to build these casings, you will need...  
 
 - **A strong, durable printer filament for the casing shells**
