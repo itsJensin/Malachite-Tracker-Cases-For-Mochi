@@ -24,9 +24,7 @@ In order to build these casings, you will need...
 
 - **A strong, durable printer filament for the casing shells**  
 
-<span style="color: gray;">
-*PLA Tough+ or PETG is advisable. I used this [PLA Tough+](https://uk.store.bambulab.com/products/pla-tough-upgrade?id=624454208526409776) for mine. Don't get ones labelled with "-CF"; whilst these may be stronger they are usually less precise when printing.*
-</span>
+<sub>*PLA Tough+ or PETG is advisable. I used this [PLA Tough+](https://uk.store.bambulab.com/products/pla-tough-upgrade?id=624454208526409776) for mine. Don't get ones labelled with "-CF"; whilst these may be stronger they are usually less precise when printing.*</sub>
 
 - **A flexible printer filament for the central link**  
 
