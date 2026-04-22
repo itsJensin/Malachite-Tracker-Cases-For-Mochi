@@ -31,7 +31,7 @@ In order to build these casings, you will need...
 - **Four M2.5 x 8mm Flat Head Screws**  
 <sup>The length is imperative to hold everything in place. I used [these ones from Amazon](https://www.amazon.co.uk/gp/product/B0D2R68YBC) and they work great.</sup>
 
-- **A Mochi v4 LSM6DSV DIY Tracker PCB**  
+- **A Mochi V4 LSM6DSV DIY Tracker PCB**  
 <sup>The default board chip this case should be used with. [Find it here if you haven't already.](https://vyrovr.com/products/mochi-v4-lsm6dsv-slimevr-compatible-tracker)</sup>
 
 - **An LP601730 260mAh LiPo Battery**  
