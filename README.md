@@ -24,7 +24,7 @@ In order to build these casings, you will need...
 > *The 'normal' type you will find in many electronics and craft stores.*
 
 
-### Tools
+## -~ Tools ~-
 The essential tools required to build these.  
 
 - **Access to an FDM 3D printer with a printing nozzle no smaller than 0.4mm**
@@ -38,6 +38,6 @@ The essential tools required to build these.
 - *Optional* **A pair of wire strippers**
 > This is optional as I found I could use the clippers to strip any wires.
 
-### Printing The Casing
+## -~ Printing The Casing ~-
 
-### Assembly
+## -~ Assembly ~-
