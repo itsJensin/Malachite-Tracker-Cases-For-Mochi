@@ -115,5 +115,9 @@ The first step is to prepare the batteries and the PCBs for soldering.
 2. Put some solder onto the end of the soldering iron, then rub the wire tips into the solder to prepare them for joining. If you have access to soldering flux, dipping the tips in this will make it easier for the solder to bind.  
 <sup>This part isn't essential, but it will allow the wire to bond with the PCB with much less hassle.</sup>
 
-3. Place your iron onto one of the power plates on the PCB, then till with some solder once it is hot enough for it to take.
+3. Place your iron onto the power plates on the PCB one at a time, then create a small blob of solder once the plate is hot enough for it to take.  
 <sup>You can place a drop of flux onto the pad to help it take the solder.</sup>
+
+4. Feed the battery wires through the loop in the center of the flexible connector; pull them as far through as you can to keep the plastic as far away from the soldering processes.
+
+5. Using tweezers or pliers, hold the wires onto the pad and heat with the soldering iron to bond the connection together.
