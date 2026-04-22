@@ -35,12 +35,12 @@ In order to build these casings, you will need...
 <sup>The default board chip this case should be used with. [Find it here if you haven't already.](https://vyrovr.com/products/mochi-v4-lsm6dsv-slimevr-compatible-tracker)</sup>
 
 - **An LP601730 260mAh LiPo Battery**  
-<sup>I have designed this casing to fit [this battery exactly](https://www.amazon.co.uk/dp/B09DPN31KM?th=1) for a snug, structured fit. You can theoretically use any other SlimeVR compatible battery **as long as it is smaller than 17mm width, 32mm length and 6mm height;** you would just need to secure it into the casing using something like double-sided foam tape.</sup>
+<sup>I have designed this casing to fit [this battery exactly](https://www.amazon.co.uk/dp/B09DPN31KM?th=1) for a snug, structured fit. You can theoretically use any other SlimeVR compatible battery **as long as it is smaller than 17mm width, 32mm length and 6mm height, with a wire length of at least 40mm;** you would just need to secure it into the casing using something like double-sided foam tape.</sup>
 
 - **General purpose lead-free solder wire**  
 <sup>The 'normal' type you will find in many electronics and craft stores.</sup>
 
-- **Heavy duty velcro - the 'hook' side**  
+- **Heavy duty adhesive velcro - the 'hook' side**  
 <sup>This is what to stick on the back of the tracker, to attach it firmly to your straps.</sup>
 
 - *Optional* **Soldering Flux**  
@@ -105,7 +105,7 @@ So. For each tracker, you should have five pieces; two bases, two tops and a fle
 /// Insert photo of all pieces
 
 The first step is to prepare the batteries and the PCBs for soldering.  
-1. If your battery cables aren't already stripped, strip about 3mm of the sheath off of the end of the battery's wires.  
+1. If your battery cables aren't already stripped, strip about 3mm of the sheath off of the end of the battery's wires.    
 <sup>For reference, the protruding pillars on the bottom case pieces are around 3mm, so you can use these as a rough measurement if needed.</sup>
 
 /// Insert image of battery wires stripped
@@ -118,4 +118,10 @@ The first step is to prepare the batteries and the PCBs for soldering.
 
 4. Feed the battery wires through the loop in the center of the flexible connector; pull them as far through as you can to keep the plastic as far away from the soldering processes.
 
-5. Using tweezers or pliers, hold the wires onto the pad and heat with the soldering iron to bond the connection together.
+5. Using tweezers or pliers, hold the wires onto the pad and heat with the soldering iron to bond the connection together. Solder the negative (black) wire to the board first, and then the positive (red) wire.  
+<sup>Take care to keep the flexible part as far away from the soldering iron as you can; rotating it 90 degrees worked best for me.</sup>
+
+Once the battery has been soldered, the PCB may turn on. Press and hold down the switch on the board for around two seconds, and the board will turn off.  
+
+6. You can now start assembling the other parts of the tracker. Slot both of the bases up through the holes on the flexible piece, and position the PCB and battery into their respective slots.
+<sup>Take care to insert the casing pieces together first before inserting the electronics, as this will reduce the chance of a snag on the battery wires.</sup>
