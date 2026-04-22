@@ -123,5 +123,16 @@ The first step is to prepare the batteries and the PCBs for soldering.
 
 Once the battery has been soldered, the PCB may turn on. Press and hold down the switch on the board for around two seconds, and the board will turn off.  
 
-6. You can now start assembling the other parts of the tracker. Slot both of the bases up through the holes on the flexible piece, and position the PCB and battery into their respective slots.
+6. You can now start assembling the other parts of the tracker. Slot both of the bases up through the holes on the flexible piece, and position the PCB and battery into their respective slots.  
 <sup>Take care to insert the casing pieces together first before inserting the electronics, as this will reduce the chance of a snag on the battery wires.</sup>
+
+<p align="center">
+<img width="400" height="225" alt="Slotting Part In" src="https://github.com/user-attachments/assets/3d3f4f61-222e-422a-9e61-592878e280ed" />
+</p></br>
+
+7. Feed the battery wires behind the top pillar in the battery casing, so that they follow around the back of the curved pillar.  
+<sup>This is important to reduce the chance of catching the wire when mounting the top piece.</sup>
+
+<p align="center">
+<img width="400" height="225" alt="Wire Routing sized" src="https://github.com/user-attachments/assets/fd512bc0-5aff-493b-bd9e-ef8ec6a1ae89" />
+</p></br>
