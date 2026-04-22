@@ -17,11 +17,20 @@ In order to build these casings, you will need...
 - **M2.5 x 8mm Flat Head Screws**
 > *The length is imperative to hold everything in place. I used [these ones from Amazon](https://www.amazon.co.uk/gp/product/B0D2R68YBC) and they work great.*
 - **A Mochi v4 LSM6DSV DIY Tracker PCB**
-> *The default board chip this case should be used with. [Find it here if you haven't already.](https://vyrovr.com/products/mochi-v4-lsm6dsv-slimevr-compatible-tracker)
+> *The default board chip this case should be used with. [Find it here if you haven't already.](https://vyrovr.com/products/mochi-v4-lsm6dsv-slimevr-compatible-tracker)*
+- **A
+> *I have designed this casing to fit [an LP601730 260mAh battery](https://www.amazon.co.uk/dp/B09DPN31KM?th=1) for a snug, structured fit. You can theoretically use any other SlimeVR compatible battery as long as it is smaller than 17mm width, 32mm length and 6mm height; you would just need to set it into the casing using something like double-sided foam tape.*
 - **General purpose lead-free solder wire**
 > *The 'normal' type you will find in many electronics and craft stores.*
 
+
 ### Tools
+The essential tools required to build these.  
+
+- **Access to an FDM 3D printer with a printing nozzle no smaller than 0.4mm**
+> If you don't own your own printer, there are many online forums with helpful people willing to do small custom printing jobs at a small fee. I had someone from [this subreddit](https://www.reddit.com/r/3Dprintmything/) print some parts for this project. Just be warey of scammers!
+- **A soldering iron**
+> For connecting the battery
 
 ### Printing The Casing
 
