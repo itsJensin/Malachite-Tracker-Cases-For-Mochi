@@ -62,7 +62,7 @@ The essential tools required to build these.
 - **A soldering iron**  
 <sup>For connecting the battery onto the PCB.</sup>
 
-- **A pair of tweezers, or fine tip pliers*  
+- **A pair of tweezers, or fine tip pliers**  
 <sup>For holding onto wires during the soldering process.</sup>
 
 - **A small screwdriver, compatible with the screw head type you got in your materials**  
