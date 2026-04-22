@@ -87,4 +87,8 @@ The essential tools required to build these.
 
 7. If you are happy with the results of the shell print, load your printer with your flexible filament and repeat steps 3 through 6 with the file labelled `Malachite-FlexiConnector.step`. 
 
+<p align="center">
+<img width="400" height="225" alt="Flexi Insert" src="https://github.com/user-attachments/assets/7940fdfe-0f64-40e4-a9d8-6548c9c7ae05" />
+</p></br>
+
 ## -~ Assembly ~-
