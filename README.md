@@ -68,9 +68,11 @@ The essential tools required to build these.
 <p align="center">
 <img width="300" height="200" alt="PLA Parts Build Plate" src="https://github.com/user-attachments/assets/f6ab75bd-d9bf-4b89-8677-97c04e16b46d" />  
 </p></br>
+
 3. When you drag the files in, you will need to flip both of the top plates over, so the flate side prints flat on the plate. You should be able to simply do this inside your software.
 
+<p align="center">
 <img width="400" height="225" alt="top flipping" src="https://github.com/user-attachments/assets/5b36c400-fc81-42e4-943b-899c06b9b817" />
-
+</p></br>
 
 ## -~ Assembly ~-
