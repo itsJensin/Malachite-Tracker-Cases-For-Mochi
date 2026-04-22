@@ -12,7 +12,8 @@
 [3. Printing The Casing](#--printing-the-casing--)  
 [4. Assembly](#--assembly--)  
 
-<img width="2880" height="2160" alt="IMG_3434" align="center" src="https://github.com/user-attachments/assets/544d56dd-8f74-47f4-8da6-b1107ea5cefc" />
+<img width="1440" height="1080" alt="Malachite Tracker" align="center" src="https://github.com/user-attachments/assets/a4928458-2369-4a29-a849-68f7f55796c5" />
+
 
 ## -~ Material Requirements ~-
 In order to build these casings, you will need...  
