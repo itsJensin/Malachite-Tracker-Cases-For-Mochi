@@ -100,7 +100,7 @@ The essential tools required to build these.
 
 ## -~ Assembly ~-
 
-So. For each tracker, you should have five pieces; two bases, two tops and a flexible connector piece.
+So. For each tracker, you should have five printed pieces; two bases, two tops and a flexible connector piece.
 
 <p align="center">
 <img width="400" height="225" alt="disassembled sized" src="https://github.com/user-attachments/assets/66e68249-7989-44b4-99a8-26c24d147395" />
