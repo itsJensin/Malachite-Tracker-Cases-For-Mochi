@@ -94,7 +94,7 @@ The essential tools required to build these.
 
 6. Check it all looks good in your preview and print away! 😊
 
-7. If you are happy with the results of the shell print, load your printer with your flexible filament and repeat steps 3 through 6 with the file labelled `Malachite-FlexiConnector.step`. 
+7. If you are happy with the results of the shell print, load your printer with your flexible filament and repeat steps 3 through 6 with the file labelled `Malachite-FlexiConnector.step`. Just remember to change the filament profile in your printer's / software's settings before running the flexible material.
 
 <p align="center">
 <img width="400" height="225" alt="Flexi Insert" src="https://github.com/user-attachments/assets/7940fdfe-0f64-40e4-a9d8-6548c9c7ae05" />
@@ -112,5 +112,8 @@ The first step is to prepare the batteries and the PCBs for soldering.
 
 /// Insert image of battery wires stripped
 
-2. Put some solder onto the end of the soldering iron, then rub the wire tips into the solder to prepare them for joining. If you have access to soldering flux, this will make it easier
+2. Put some solder onto the end of the soldering iron, then rub the wire tips into the solder to prepare them for joining. If you have access to soldering flux, dipping the tips in this will make it easier for the solder to bind.  
 <sup>This part isn't essential, but it will allow the wire to bond with the PCB with much less hassle.</sup>
+
+3. Place your iron onto one of the power plates on the PCB, then till with some solder once it is hot enough for it to take.
+<sup>You can place a drop of flux onto the pad to help it take the solder.</sup>
