@@ -2,10 +2,10 @@
 3D-printable files to print butterfly-style casings for the Mochi SlimeVR chip from VyroVR. Includes .STEP files for all five pieces and a quick tutorial on how to assemble the trackers.
 
 ## -~ Contents ~-
-[1. Material Requirements](#material-requirements)  
-[2. Tools](#-tools-)  
-[3. Printing The Casing](#printing-the-casing)  
-[4. Assembly](#assembly)  
+[1. Material Requirements](#--material-requirements--)  
+[2. Tools](#--tools--)  
+[3. Printing The Casing](#--printing-the-casing--)  
+[4. Assembly](#--assembly--)  
 
 ## -~ Material Requirements ~-
 In order to build these casings, you will need...  
