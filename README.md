@@ -134,5 +134,5 @@ Once the battery has been soldered, the PCB may turn on. Press and hold down the
 <sup>This is important to reduce the chance of catching the wire when mounting the top piece.</sup>
 
 <p align="center">
-<img width="400" height="225" alt="Wire Routing sized" src="https://github.com/user-attachments/assets/63f999be-0354-4679-bc55-031e3edd7528" />
+<img width="400" height="225" alt="Wire Routing sized 2" src="https://github.com/user-attachments/assets/42e28a70-a9fb-43ce-81a2-162e7223af81" />
 </p></br>
