@@ -23,22 +23,22 @@
 In order to build these casings, you will need...  
 
 - **A strong, durable printer filament for the casing shells**  
-<sub>*PLA Tough+ or PETG is advisable. I used this [PLA Tough+](https://uk.store.bambulab.com/products/pla-tough-upgrade?id=624454208526409776) for mine. Don't get ones labelled with "-CF"; whilst these may be stronger they are usually less precise when printing.*</sub>
+<sup>*PLA Tough+ or PETG is advisable. I used this [PLA Tough+](https://uk.store.bambulab.com/products/pla-tough-upgrade?id=624454208526409776) for mine. Don't get ones labelled with "-CF"; whilst these may be stronger they are usually less precise when printing.*</sup>
 
 - **A flexible printer filament for the central link**  
 <sup>*TPU or TPE is advisable here due to its elastic properties. I used [TPU-95A](https://www.amazon.co.uk/dp/B00TI3JUSI?th=1) for mine as it is flexible, durable and impact resistant.*</sup>
 
 - **Four M2.5 x 8mm Flat Head Screws**  
-<sub>*The length is imperative to hold everything in place. I used [these ones from Amazon](https://www.amazon.co.uk/gp/product/B0D2R68YBC) and they work great.*</sub>
+<sup>*The length is imperative to hold everything in place. I used [these ones from Amazon](https://www.amazon.co.uk/gp/product/B0D2R68YBC) and they work great.*</sup>
 
 - **A Mochi v4 LSM6DSV DIY Tracker PCB**  
-<sub>*The default board chip this case should be used with. [Find it here if you haven't already.](https://vyrovr.com/products/mochi-v4-lsm6dsv-slimevr-compatible-tracker)*</sub>
+<sup>*The default board chip this case should be used with. [Find it here if you haven't already.](https://vyrovr.com/products/mochi-v4-lsm6dsv-slimevr-compatible-tracker)*</sup>
 
 - **An LP601730 260mAh LiPo Battery**  
-<sub>*I have designed this casing to fit [this battery exactly](https://www.amazon.co.uk/dp/B09DPN31KM?th=1) for a snug, structured fit. You can theoretically use any other SlimeVR compatible battery* ***as long as it is smaller than 17mm width, 32mm length and 6mm height;*** *you would just need to secure it into the casing using something like double-sided foam tape.*</sub>
+<sup>*I have designed this casing to fit [this battery exactly](https://www.amazon.co.uk/dp/B09DPN31KM?th=1) for a snug, structured fit. You can theoretically use any other SlimeVR compatible battery* ***as long as it is smaller than 17mm width, 32mm length and 6mm height;*** *you would just need to secure it into the casing using something like double-sided foam tape.*</sup>
 
 - **General purpose lead-free solder wire**  
-<sub>*The 'normal' type you will find in many electronics and craft stores.*</sub>
+<sup>*The 'normal' type you will find in many electronics and craft stores.*</sup>
 
 
 ## -~ Tools ~-
