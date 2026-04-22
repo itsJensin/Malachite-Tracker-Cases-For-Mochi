@@ -40,6 +40,9 @@ In order to build these casings, you will need...
 - **General purpose lead-free solder wire**  
 <sup>The 'normal' type you will find in many electronics and craft stores.</sup>
 
+- **Heavy duty velcro - the 'hook' side**
+<sup>This is what to stick on the back of the tracker, to attach it firmly to your straps.</sup>
+
 
 ## -~ Tools ~-
 The essential tools required to build these.  
