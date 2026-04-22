@@ -40,7 +40,7 @@ In order to build these casings, you will need...
 - **General purpose lead-free solder wire**  
 <sup>The 'normal' type you will find in many electronics and craft stores.</sup>
 
-- **Heavy duty velcro - the 'hook' side**
+- **Heavy duty velcro - the 'hook' side**  
 <sup>This is what to stick on the back of the tracker, to attach it firmly to your straps.</sup>
 
 
@@ -58,6 +58,9 @@ The essential tools required to build these.
 
 - **A soldering iron**  
 <sup>For connecting the battery onto the PCB.</sup>
+
+- **A pair of tweezers, or fine tip pliers**
+<sup>For holding onto wires during the soldering process.</sup>
 
 - **A small screwdriver, compatible with the screw head type you got in your materials**  
 <sup>I used a Phillips #1 for mine.</sup>
@@ -95,3 +98,16 @@ The essential tools required to build these.
 </p></br>
 
 ## -~ Assembly ~-
+
+So. For each tracker, you should have five pieces; two bases, two tops and a flexible connector piece.
+
+/// Insert photo of all pieces
+
+The first step is to prepare the batteries and the PCBs for soldering.  
+1. If your battery cables aren't already stripped, strip about 3mm of the sheath off of the end of the battery's wires.
+<sup>For reference, the protruding pillars on the bottom case pieces are around 3mm, so you can use these as a rough measurement if needed.</sup>
+
+/// Insert image of battery wires stripped
+
+2. Put some solder onto the end of the soldering iron, then rub the wire tips into the solder to prepare them for joining.
+3. <sup>This part isn't essential, but it will allow the wire to bond with the PCB with much less hassle.</sup>
