@@ -63,7 +63,7 @@ The essential tools required to build these.
 <sup>(If you're outsourcing your printing, simply skip to [Assembly](--assembly--))</sup>
 1. Firstly, go to the releases tab on this page and download all of the files in the latest release.
 
-2. Open your printing software, and drag and drop the four files labelled `Malachite-Shell-... .step` onto the printing plate.
+2. Open your printing software, and drag and drop the four files labelled `Malachite-Shell-... .step` onto the printing plate. You can copy and paste these parts to print however many trackers you will be making.
 
 <p align="center">
 <img width="400" height="225" alt="PLA Parts Build Plate sized" src="https://github.com/user-attachments/assets/2cce889e-611b-4316-ba34-38a52765a252" />
@@ -75,10 +75,12 @@ The essential tools required to build these.
 <img width="400" height="225" alt="top flipping" src="https://github.com/user-attachments/assets/5b36c400-fc81-42e4-943b-899c06b9b817" />
 </p></br>
 
-4. Set your printer's infill to 100% to ensure a fully solid print.
+4. Set each part's infill to 100% in a rectalinear pattern, to ensure a fully solid print.
 
 <p align="center">
 <img width="400" height="225" alt="Infill sized" src="https://github.com/user-attachments/assets/53c2e5f2-9ef6-470d-b977-df01bc631f18" />
 </p></br>
+
+5. Check it all looks good in your preview and print away!
 
 ## -~ Assembly ~-
