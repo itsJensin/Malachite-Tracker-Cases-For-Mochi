@@ -60,7 +60,7 @@ The essential tools required to build these.
 <sup>I used a Phillips #1 for mine.</sup>
 
 ## -~ Printing The Casing ~-
-<sup>.If you're outsourcing your printing, simply skip to [Assembly](--assembly--).</sup>
+<sup>.If you're outsourcing your printing, simply skip to [Assembly](READMEmd#--assembly--).</sup>
 1. Firstly, go to the releases tab on this page and download all of the files in the latest release.
 
 2. Load your strong filament into your printer that you will be using for the hard casings.
