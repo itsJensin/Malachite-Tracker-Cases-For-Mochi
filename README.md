@@ -1,4 +1,4 @@
-# Malachite-Tracker-Cases-For-Mochi
+# Malachite Tracker Cases For Mochi
 3D-printable files to print butterfly-style casings for the Mochi SlimeVR chip from VyroVR. Includes .STEP files for all five pieces and a quick tutorial on how to assemble the trackers.
 
 ## -~ Contents ~-
@@ -40,6 +40,6 @@ The essential tools required to build these.
 
 ## -~ Printing The Casing ~-
 
-1. Firstly, go to the releases tab on this page and download the
+1. Firstly, go to the releases tab on this page and download all of the files in the latest release.
 
 ## -~ Assembly ~-
