@@ -47,17 +47,17 @@ The essential tools required to build these.
 - **Access to an FDM 3D printer with a printing nozzle no smaller than 0.4mm**  
 <sup> If you don't own your own printer, there are many online forums with helpful people willing to do small custom printing jobs at a small fee. I had someone from [this subreddit](https://www.reddit.com/r/3Dprintmything/) print some parts for this project. Just be warey of scammers!</sup>
 
-- **A soldering iron**  
-<sup>For connecting the battery onto the PCB.</sup>
-
-- **A small screwdriver, compatible with the screw head type you got in your materials**  
-<sup>I used a Phillips #1 for mine.</sup>
-
 - **A small pair of wire clippers, or if not possible, nail clippers / scissors**  
 <sup>For cutting the battery wires to length if necessary.</sup>
 
 - *(Optional)* **A pair of wire strippers**  
 <sup>This is optional as I found I could use the clippers to strip the wires.</sup>
+
+- **A soldering iron**  
+<sup>For connecting the battery onto the PCB.</sup>
+
+- **A small screwdriver, compatible with the screw head type you got in your materials**  
+<sup>I used a Phillips #1 for mine.</sup>
 
 ## -~ Printing The Casing ~-
 <sup>(If you're outsourcing your printing, simply skip to [Assembly](--assembly--))</sup>
