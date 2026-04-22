@@ -9,6 +9,7 @@
 
 ### 1. Material Requirements
 In order to build these casings, you will need -  
+
 **- A strong, durable printer filament for the casing shells**
  > *PLA or PETG is advisable. Don't get ones labelled with "-CF"; whilst these may be stronger they are usually less precise when printing.*
 -
