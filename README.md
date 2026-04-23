@@ -43,14 +43,14 @@ In order to build these casings, you will need...
 - **Heavy duty adhesive velcro - the 'hook' side**  
 <sup>This is what to stick on the back of the tracker, to attach it firmly to your straps.</sup>
 
-- *Optional* **Soldering Flux**  
+- *(Optional)* **Soldering Flux**  
 <sup>This is quite cheap on [Amazon](https://www.amazon.co.uk/dp/B003JFVCYG) and can help when using an older soldering iron with less unoxidized metal on the tip.</sup>
 
 
 ## -~ Tools ~-
 The essential tools required to build these.  
 
-- **Access to an FDM 3D printer with a printing nozzle no smaller than 0.4mm**  
+- **Access to an FDM 3D printer with a printing nozzle of at most 0.4mm**  
 <sup> If you don't own your own printer, there are many online forums with helpful people willing to do small custom printing jobs at a small fee. I had someone from [this subreddit](https://www.reddit.com/r/3Dprintmything/) print some parts for this project. Just be warey of scammers!</sup>
 
 - **A small pair of wire clippers, or if not possible, nail clippers / scissors**  
